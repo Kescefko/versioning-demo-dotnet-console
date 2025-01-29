@@ -5,7 +5,7 @@ namespace VersioningDemo
     class Program
     {
         // The version number will be manually set based on the versioning strategy
-        static string version = "v1.3.0";
+        static string version = "v2.0.0";
 
         static void Main(string[] args)
         {
